@@ -1,6 +1,4 @@
-Oczywiście! Oto przepisany tekst, który możesz umieścić w pliku README na GitHubie:
 
----
 
 ## Wprowadzenie
 
