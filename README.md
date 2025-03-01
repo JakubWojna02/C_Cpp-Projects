@@ -1,4 +1,4 @@
-# Projekty z analizy danych
+# Projekty
 
 W tym repozytorium znajdują się cztery projekty. Aby zapoznać się ze szczegółami każdego projektu, zapraszam do przeczytania odpowiednich plików README:
 
